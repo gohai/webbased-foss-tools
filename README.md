@@ -13,6 +13,7 @@
 ## Graphics
 
 * [SVG-edit](https://github.com/SVG-Edit/svgedit) - Fast vector graphics editing
+* [scri.ch](https://github.com/lisezmoi/scri.ch) - Simple bitmap drawing
 * [Prototypo](https://github.com/byte-foundry/prototypo) - Font editing
 
 ## 3D
